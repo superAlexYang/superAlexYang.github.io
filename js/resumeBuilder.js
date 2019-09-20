@@ -221,16 +221,40 @@ var education = {
 	],
 	"onlineCourses": [
 		{
-			"title": "WordPress",
-			"school": "Treehouse",
-			"dates": 2014,
-			"url": "http://teamtreehouse.com/home"
+			"title": "Machine Learning Engineer Nanodegree",
+			"school": "Udacity",
+			"dates": 2018,
+			"url": "https://graduation.udacity.com/confirm/PFTTCRPW"
 		},
 		{
-			"title": "Front-end Web Development",
+			"title": "Full Stack Web Developer Nanodegree",
 			"school": "Udacity",
-			"dates": 2014,
-			"url": "https://www.udacity.com/nanodegrees"
+			"dates": 2017,
+			"url": "https://graduation.udacity.com/confirm/MG2AKFNL"
+		},
+		{
+			"title": "Deep Learning Specialization",
+			"school": "Udacity",
+			"dates": 2018,
+			"url": "https://www.coursera.org/account/accomplishments/specialization/certificate/ZZEV9KNJ3L7T"
+		},
+		{
+			"title": "Object Oriented Programming in Java Specialization",
+			"school": "Udacity",
+			"dates": 2017,
+			"url": "https://www.coursera.org/account/accomplishments/specialization/certificate/F5S9AJSVZ3GV"
+		},
+		{
+			"title": "Data Structures and Algorithms Specialization",
+			"school": "Udacity",
+			"dates": 2017,
+			"url": "https://www.coursera.org/account/accomplishments/specialization/certificate/CCPYMGWV2K9V"
+		},
+		{
+			"title": "Machine Learning Specialization",
+			"school": "Udacity",
+			"dates": 2017,
+			"url": "https://www.coursera.org/account/accomplishments/specialization/certificate/SQGSJ59TUK7W"
 		}
 	],
 };
@@ -257,62 +281,6 @@ education.display = function(){
 									.append(HTMLonlineURL.replace("%data%", education.onlineCourses[onlineCourse]["url"]));
 	}
 }
-//Map
-$("#mapDiv").append(googleMap);
-
-// chartjs library from: http://www.chartjs.org/docs/#polar-area-chart
-var polarData = [
-  {
-    value: 10,
-    color:"#F7464A",
-    highlight: "#FF5A5E",
-    label: "HTML",
-    labelcolor: "red"
-  },
-  {
-    value: 8,
-    color:"#F06613",
-    highlight: "#FF5A5E",
-    label: "CSS",
-    labelcolor: "orange"
-  },
-  {
-    value: 7,
-    color: "#46BFBD",
-    highlight: "#5AD3D1",
-    label: "Javascript",
-    labelcolor: "green"
-  },
-  {
-    value: 4,
-    color: "#FDB45C",
-    highlight: "#FFC870",
-    label: "PHP",
-    labelcolor: "yellow"
-  },
-  {
-    value: 6,
-    color: "#949FB1",
-    highlight: "#A8B3C5",
-    label: "WordPress",
-    labelcolor: "gray"
-  },
-  {
-    value: 5,
-    color: "#23582b",
-    highlight: "#A8B3C5",
-    label: "Git",
-    labelcolor: "darker-green"
-  },
-  {
-    value: 3,
-    color: "#4D5360",
-    highlight: "#616774",
-    label: "MySQL",
-    labelcolor: "darker-gray"
-  }
-
-  ];
 // Display a list of skill labels
 var skillsChartLabels = function(){
 	for (skill in polarData){
