@@ -46,7 +46,7 @@ var projects = {
 		{
 			"title": "Yelp Business Analysis",
 			"date worked": "Jan 2018 - May 2018",
-			"description": "Neighborhood Map project for Udacity Front-end Web Development Nanodegree",
+			"description": "Project for Data Camps",
 			"image": "https://github.com/superAlexYang",
 			"github": "https://github.com/superAlexYang",
 			"demo": "https://github.com/superAlexYang",
