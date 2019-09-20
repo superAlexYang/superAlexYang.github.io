@@ -4,22 +4,23 @@ var work = {
 	"jobs":[
 		{
 			"employer": "ACAI, LLC",
-			"title": "Data Scientist Intern",
+			"title": "数据科学家实习",
 			"location": "Willimantic, CT",
-			"dates": "JUN 2018 - Present",
-			"description": "Perform complete life cycle development of front-end web development, with an emphasis on the requirements gathering, planning, analysis, testing, and acceptance phases for assigned projects. Work with Graphic Designer and Webmaster to translate wireframe designs into code using standards-compliant dynamic HTML5 and CSS3; utilize approved software development platforms, methodologies, tools and languages (JavaScript, Velocity etc.) to create and manage customized web projects. Maintain all CSE websites and applications; provide management with updates regarding the status of web-related projects, and participate in discussions and meetings regarding web related projects."
+			"dates": "2018年6月 - 2019年6月",
+			"description": "创建MapReduce脚本和Hive查询语句从每日数百万条日志数据中检视用户请求模式，以更好地帮助客户理解用户需求；在Tableau中构建互动式可视化地图app，来展示和分析不同地域，不同时间段的用户使用情况，并部署在用户服务器上；在TensorFlow中优化和训练自定义YOLO模型以辨别车辆的不同区域，并通过相似度检测预测车辆的品牌，型号和年份；建立网站App来对车辆信息和图片边框进行人工标识，并使用训练过的CNN模型给出建议，从而提高标识速度
+"
 		},
 		{
-			"employer": "University of Connecticut",
-			"title": "Graduate Research Assistant",
+			"employer": "康涅狄格大学商学院",
+			"title": "研究助理",
 			"location": "Hartford, CT",
 			"dates": "JAN 2018 - MAY 2018",
 			"description": "Provide one-on-one and in-classroom instructional technology support to faculty and staff members to create and strengthen online learning opportunities for CSE students; assist the Academic Computing department in the development of Blackboard, Moodle and ePortfolio instructor training materials and workshops. Work collaboratively with the Institutional Advancement, Academic Affairs and IT departments on web design/redesign projects; develop and provide technical support for interactive web applications by utilizing various programming languages including Velocity, HTML, CSS and Javascript; use the dotCMS content management system to maintain the website of the four academic areas under the Academic Affairs department; Use InDesign, Photoshop. Illustrator, Publisher and Acrobat to design and publish online documents including postcards, flyers, brochures, web banners and email invitations"
 		},
 		{
-			"employer": "Bloomberg L.P.",
-			"title": "Supply Chain Analyst",
-			"location": "Skillman, NJ",
+			"employer": "河北维天通讯器材公司",
+			"title": "财务助理",
+			"location": "Shijiazhuang, Hebei",
 			"dates": "2009 - 2010",
 			"description": "Discovered global supply chain data and constructed databases detailing the suppliers, intermediaries, third-party service providers and customers of public companies based in China; Utilized supply chain databases to model raw material, component part, product ! and service flows along the supply chains of Chinese corporations"
 		}
