@@ -14,7 +14,7 @@ var work = {
 			"title": "Graduate Research Assistant",
 			"location": "Hartford, CT",
 			"dates": "JAN 2018 - MAY 2018",
-			"description": "Provide one-on-one and in-classroom instructional technology support to faculty and staff members to create and strengthen online learning opportunities for CSE students; assist the Academic Computing department in the development of Blackboard, Moodle and ePortfolio instructor training materials and workshops. Work collaboratively with the Institutional Advancement, Academic Affairs and IT departments on web design/redesign projects; develop and provide technical support for interactive web applications by utilizing various programming languages including Velocity, HTML, CSS and Javascript; use the dotCMS content management system to maintain the website of the four academic areas under the Academic Affairs department; Use InDesign, Photoshop. Illustrator, Publisher and Acrobat to design and publish online documents including postcards, flyers, brochures, web banners and email invitations"
+			"description": "Developed a database website to store millions of images and texts data using Python, Flask and SQLite; Reduced marking time by implementing a Web App for marking images and deployed on AWS"
 		},
 		{
 			"employer": "Hebei Weitian Co. Ltd.",
