@@ -53,7 +53,7 @@ var projects = {
 			"progress": 100
 		},
 		{
-			"title": "Arcade Game",
+			"title": "Stock Predictions Trading Bot",
 			"date worked": "Nov, 2014",
 			"description": "Classic arcade game clone project for Udacity Front-end Web Development Nanodegree",
 			"image": "http://lei-clearsky.github.io/images/1.jpg",
@@ -62,7 +62,7 @@ var projects = {
 			"progress": 100
 		},
 		{
-			"title": "Resume",
+			"title": "Walmart Store Sales Forecasting Projects",
 			"date worked": "Oct, 2014",
 			"description": "Resume project for Udacity Front-end Web Development Nanodegree",
 			"image": "http://lei-clearsky.github.io/images/1.jpg",
@@ -71,54 +71,13 @@ var projects = {
 			"progress": 100
 		},
 		{
-			"title": "Lazy Recipe",
+			"title": "Starcraft II bot",
 			"date worked": "Oct, 2013 - Dec, 2013",
 			"description": "My first Rails project. Search recipes by ingredients, ingredients are sorted from the least to the most.",
 			"image": "http://lei-clearsky.github.io/images/2.jpg",
 			"github": "https://github.com/lei-clearsky/search-recipes-app",
 			"demo": "http://powerful-wildwood-2510.herokuapp.com/",
 			"progress": 100
-		},
-		{
-			"title": "Mu Theta At Large",
-			"date worked": "Jul, 2014 - Aug, 2014",
-			"description": "My first WordPress project. Redesigned a new resonsive WordPress theme and converted a flash based site",
-			"image": "http://lei-clearsky.github.io/images/3.jpg",
-			"github": "https://github.com/lei-clearsky/muthetaatlarge/tree/master/wp-content/themes/mtal",
-			"demo": "http://muthetaatlarge.org/",
-			"progress": 100
-		},
-		{
-			"title": "FIFA Matches",
-			"date worked": "Sept, 2014 - Oct, 2014",
-			"description": "A drag and drop FIFA soccer game. Drag and drop the coutry icons and output and retrive result through a generated json object.",
-			"image": "http://lei-clearsky.github.io/images/4.jpg",
-			"github": "https://github.com/lei-clearsky/WWC-project-fifa",
-			"progress": 100
-		},
-		{
-			"title": "WordPress Twitter Plugin",
-			"date worked": "Aug, 2014 - Sept, 2014",
-			"description": "A WordPress twitter plugin. Users can input Authentication keys to display their tweets from twitter.",
-			"image": "http://lei-clearsky.github.io/images/5.jpg",
-			"github": "https://github.com/lei-clearsky/wp-theme-and-plugin/tree/master/wp-content/plugins/wpplugin-test",
-			"progress": 90
-		},
-		{
-			"title": "CSE Official Website",
-			"date worked": "July, 2013 - Present",
-			"description": "I redesigned and created the front-end of the College of Saint Elizabeth's official website. The previous site is in Flash.",
-			"image": "http://lei-clearsky.github.io/images/6.jpg",
-			"demo": "http://www.cse.edu/",
-			"progress": 100
-		},
-		{
-			"title": "CSE WordPress Intranet",
-			"date worked": "Jul, 2014 - Sept, 2014",
-			"description": "Converted College of Saint Elizabeth website to a WordPress site with custom theme and widgets",
-			"image": "http://lei-clearsky.github.io/images/1.jpg",
-			"github": "https://github.com/lei-clearsky/wp-theme-and-plugin/tree/master/wp-content/themes/college",
-			"progress": 80
 		}
 	]
 
