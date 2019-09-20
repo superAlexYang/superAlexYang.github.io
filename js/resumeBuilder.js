@@ -62,7 +62,7 @@ var projects = {
 			"progress": 100
 		},
 		{
-			"title": "Walmart Store Sales Forecasting Projects",
+			"title": "Walmart Store Sales Forecasting",
 			"date worked": "Oct, 2017",
 			"description": "Final Project for Advanced Data Analysis Course",
 			"image": "https://github.com/superAlexYang",
