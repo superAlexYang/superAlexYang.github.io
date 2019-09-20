@@ -54,8 +54,8 @@ var projects = {
 		},
 		{
 			"title": "Stock Predictions Trading Bot",
-			"date worked": "Nov, 2014",
-			"description": "Classic arcade game clone project for Udacity Front-end Web Development Nanodegree",
+			"date worked": "Feb, 2018",
+			"description": "Capstone Project For Udacity Machine Learning Nanodegree",
 			"image": "http://lei-clearsky.github.io/images/1.jpg",
 			"github": "https://github.com/lei-clearsky/p3-arcade-game",
 			"demo": "http://lei-clearsky.github.io/p3-arcade-game/",
@@ -63,20 +63,11 @@ var projects = {
 		},
 		{
 			"title": "Walmart Store Sales Forecasting Projects",
-			"date worked": "Oct, 2014",
-			"description": "Resume project for Udacity Front-end Web Development Nanodegree",
+			"date worked": "Oct, 2017",
+			"description": "Final Project for Advanced Data Analysis Course",
 			"image": "http://lei-clearsky.github.io/images/1.jpg",
 			"github": "https://github.com/lei-clearsky/nanodegree-fewd-p2",
 			"demo": "http://lei-clearsky.github.io/nanodegree-fewd-p2/",
-			"progress": 100
-		},
-		{
-			"title": "Starcraft II bot",
-			"date worked": "Oct, 2013 - Dec, 2013",
-			"description": "My first Rails project. Search recipes by ingredients, ingredients are sorted from the least to the most.",
-			"image": "http://lei-clearsky.github.io/images/2.jpg",
-			"github": "https://github.com/lei-clearsky/search-recipes-app",
-			"demo": "http://powerful-wildwood-2510.herokuapp.com/",
 			"progress": 100
 		}
 	]
