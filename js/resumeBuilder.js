@@ -21,7 +21,7 @@ var work = {
 			"title": "Financial Assistant",
 			"location": "Shijiazhuang, Hebei",
 			"dates": "Aug 2015 - Aug 2016",
-			"description": "Responsible for the cost accounting of the company, and use Excel to produce company profit statements, collect and collate financial data, conduct financial analysis, and report to superiors; "
+			"description": "Responsible for the cost accounting of the company, and use Excel to produce company profit statements, collect and collate financial data, conduct financial analysis, and report to superiors; Using R and Shiny to visualize and analysis sales data"
 		}
 
 	]
