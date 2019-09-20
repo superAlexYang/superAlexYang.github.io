@@ -21,7 +21,7 @@ var work = {
 			"title": "Financial Assistant",
 			"location": "Shijiazhuang, Hebei",
 			"dates": "Aug 2015 - Aug 2016",
-			"description": "Discovered global supply chain data and constructed databases detailing the suppliers, intermediaries, third-party service providers and customers of public companies based in China; Utilized supply chain databases to model raw material, component part, product ! and service flows along the supply chains of Chinese corporations"
+			"description": "Responsible for the cost accounting of the company, and use Excel to produce company profit statements, collect and collate financial data, conduct financial analysis, and report to superiors; "
 		}
 
 	]
