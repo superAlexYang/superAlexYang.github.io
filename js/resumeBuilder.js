@@ -47,27 +47,27 @@ var projects = {
 			"title": "Yelp Business Analysis",
 			"date worked": "Jan 2018 - May 2018",
 			"description": "Neighborhood Map project for Udacity Front-end Web Development Nanodegree",
-			"image": "http://lei-clearsky.github.io/images/1.jpg",
-			"github": "https://github.com/lei-clearsky/neighborhood-map-seperate-model",
-			"demo": "http://lei-clearsky.github.io/neighborhood-map-seperate-model/",
+			"image": "https://github.com/superAlexYang",
+			"github": "https://github.com/superAlexYang",
+			"demo": "https://github.com/superAlexYang",
 			"progress": 100
 		},
 		{
 			"title": "Stock Predictions Trading Bot",
 			"date worked": "Feb, 2018",
 			"description": "Capstone Project For Udacity Machine Learning Nanodegree",
-			"image": "http://lei-clearsky.github.io/images/1.jpg",
-			"github": "https://github.com/lei-clearsky/p3-arcade-game",
-			"demo": "http://lei-clearsky.github.io/p3-arcade-game/",
+			"image": "https://github.com/superAlexYang",
+			"github": "https://github.com/superAlexYang",
+			"demo": "https://github.com/superAlexYang",
 			"progress": 100
 		},
 		{
 			"title": "Walmart Store Sales Forecasting Projects",
 			"date worked": "Oct, 2017",
 			"description": "Final Project for Advanced Data Analysis Course",
-			"image": "http://lei-clearsky.github.io/images/1.jpg",
-			"github": "https://github.com/lei-clearsky/nanodegree-fewd-p2",
-			"demo": "http://lei-clearsky.github.io/nanodegree-fewd-p2/",
+			"image": "https://github.com/superAlexYang",
+			"github": "https://github.com/superAlexYang",
+			"demo": "https://github.com/superAlexYang",
 			"progress": 100
 		}
 	]
@@ -117,10 +117,6 @@ var bio = {
 	"welcome message": "I'm passionate about data analysis, machine learning and deeplearning. Feel free to check out my Github repositories and demo projects. You can also find me on Linkedin",
 	"contacts": 
 		{
-			"mobile number": "000-000-0000",
-			"email": "mingpei_yang@163.com",
-			"github username": "superalexyang",
-			"location": "Shijiazhuang, Hebei"
 		},
 	"skills": ["Python", "R", "SAS", "Java", "JavaScripts", "C++", "Oracle SQL", "MySql", "SQLite", "Hadoop", "Hive", "Kafka", "Spark", "Tableau", "TensorFlow", "Pytorch", "Keras", "Pandas", "Beautiful Soup", "Shiny", "sklearn", "HTML", "CSS", "Javascript", "JQuery", "PHP", "MySQL", "WordPress"]
 
@@ -184,25 +180,25 @@ var education = {
 		},
 		{
 			"title": "Deep Learning Specialization",
-			"school": "Udacity",
+			"school": "Coursera",
 			"dates": 2018,
 			"url": "https://www.coursera.org/account/accomplishments/specialization/certificate/ZZEV9KNJ3L7T"
 		},
 		{
 			"title": "Object Oriented Programming in Java Specialization",
-			"school": "Udacity",
+			"school": "Coursera",
 			"dates": 2017,
 			"url": "https://www.coursera.org/account/accomplishments/specialization/certificate/F5S9AJSVZ3GV"
 		},
 		{
 			"title": "Data Structures and Algorithms Specialization",
-			"school": "Udacity",
+			"school": "Coursera",
 			"dates": 2017,
 			"url": "https://www.coursera.org/account/accomplishments/specialization/certificate/CCPYMGWV2K9V"
 		},
 		{
 			"title": "Machine Learning Specialization",
-			"school": "Udacity",
+			"school": "Coursera",
 			"dates": 2017,
 			"url": "https://www.coursera.org/account/accomplishments/specialization/certificate/SQGSJ59TUK7W"
 		}
