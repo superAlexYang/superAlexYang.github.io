@@ -7,7 +7,7 @@ var work = {
 			"title": "Data Scientist Intern",
 			"location": "Willimantic, CT",
 			"dates": "JUN 2018 - JUN 2019",
-			"description": "Perform complete life cycle development of front-end web development, with an emphasis on the requirements gathering, planning, analysis, testing, and acceptance phases for assigned projects. Work with Graphic Designer and Webmaster to translate wireframe designs into code using standards-compliant dynamic HTML5 and CSS3; utilize approved software development platforms, methodologies, tools and languages (JavaScript, Velocity etc.) to create and manage customized web projects. Maintain all CSE websites and applications; provide management with updates regarding the status of web-related projects, and participate in discussions and meetings regarding web related projects."
+			"description": "Created MapReduce scripts and Hive queries to spot user request patterns from log data; Developed an interactive map visualization app using Tableau; Increased marking spped by deploying a GUI web App for marking vechicles information and the bounding box of images and using a trained CNN model to give suggestions of vehicle's information"
 		},
 		{
 			"employer": "University of Connecticut",
