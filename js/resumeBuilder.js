@@ -6,7 +6,7 @@ var work = {
 			"employer": "ACAI, LLC",
 			"title": "Data Scientist Intern",
 			"location": "Willimantic, CT",
-			"dates": "JUN 2018 - Present",
+			"dates": "JUN 2018 - JUN 2019",
 			"description": "Perform complete life cycle development of front-end web development, with an emphasis on the requirements gathering, planning, analysis, testing, and acceptance phases for assigned projects. Work with Graphic Designer and Webmaster to translate wireframe designs into code using standards-compliant dynamic HTML5 and CSS3; utilize approved software development platforms, methodologies, tools and languages (JavaScript, Velocity etc.) to create and manage customized web projects. Maintain all CSE websites and applications; provide management with updates regarding the status of web-related projects, and participate in discussions and meetings regarding web related projects."
 		},
 		{
@@ -17,10 +17,10 @@ var work = {
 			"description": "Provide one-on-one and in-classroom instructional technology support to faculty and staff members to create and strengthen online learning opportunities for CSE students; assist the Academic Computing department in the development of Blackboard, Moodle and ePortfolio instructor training materials and workshops. Work collaboratively with the Institutional Advancement, Academic Affairs and IT departments on web design/redesign projects; develop and provide technical support for interactive web applications by utilizing various programming languages including Velocity, HTML, CSS and Javascript; use the dotCMS content management system to maintain the website of the four academic areas under the Academic Affairs department; Use InDesign, Photoshop. Illustrator, Publisher and Acrobat to design and publish online documents including postcards, flyers, brochures, web banners and email invitations"
 		},
 		{
-			"employer": "Bloomberg L.P.",
-			"title": "Supply Chain Analyst",
-			"location": "Skillman, NJ",
-			"dates": "2009 - 2010",
+			"employer": "Hebei Weitian Co. Ltd.",
+			"title": "Financial Assistant",
+			"location": "Shijiazhuang, Hebei",
+			"dates": "Aug 2015 - Aug 2016",
 			"description": "Discovered global supply chain data and constructed databases detailing the suppliers, intermediaries, third-party service providers and customers of public companies based in China; Utilized supply chain databases to model raw material, component part, product ! and service flows along the supply chains of Chinese corporations"
 		}
 
@@ -44,8 +44,8 @@ work.display = function(){
 var projects = {
 	"projects": [
 		{
-			"title": "Neighborhood Map",
-			"date worked": "Dec, 2014 - Jan, 2015",
+			"title": "Yelp Business Analysis",
+			"date worked": "Jan 2018 - May 2018",
 			"description": "Neighborhood Map project for Udacity Front-end Web Development Nanodegree",
 			"image": "http://lei-clearsky.github.io/images/1.jpg",
 			"github": "https://github.com/lei-clearsky/neighborhood-map-seperate-model",
@@ -164,17 +164,15 @@ var bio = {
 	"first name": "Mingpei",
 	"last name": "Yang",
 	"role": "Data Scientist",
-	"welcome message": "I'm passionate about web design and web development, and am currently working as a junior web developer. Feel free to check out my Github repositories and demo projects. You can also find me on Linkedin and Twitter.",
-	"bio pic": "https://lh3.googleusercontent.com/-SBN15tcmbC8/UkCdJGCGHOI/AAAAAAAAAVE/Gjs_4zrqmfY/w140-h140-p/LeiZ.JPG",
+	"welcome message": "I'm passionate about data analysis, machine learning and deeplearning. Feel free to check out my Github repositories and demo projects. You can also find me on Linkedin",
 	"contacts": 
 		{
 			"mobile number": "000-000-0000",
-			"email": "lei.clearsky@gmail.com",
-			"github username": "lei-clearsky",
-			"twitter handle": "@LeiZhuish",
-			"location": "New York, NY"
+			"email": "mingpei_yang@163.com",
+			"github username": "superalexyang",
+			"location": "Shijiazhuang, Hebei"
 		},
-	"skills": ["HTML", "CSS", "Javascript", "JQuery", "PHP", "MySQL", "WordPress"]
+	"skills": ["Python", "R", "SAS", "Java", "JavaScripts", "C++", "Oracle SQL", "MySql", "SQLite", "Hadoop", "Hive", "Kafka", "Spark", "Tableau", "TensorFlow", "Pytorch", "Keras", "Pandas", "Beautiful Soup", "Shiny", "sklearn", "HTML", "CSS", "Javascript", "JQuery", "PHP", "MySQL", "WordPress"]
 
 };
 bio.display = function(){
@@ -205,20 +203,20 @@ bio.display = function(){
 var education = {
 	"schools": [
 		{
-			"name": "Northern State University",
-			"location": "Aberdeen, SD",
-			"degree": "Masters",
-			"majors": ["M.S. in E-learning Technology and Administration"],
-			"dates": "May 2009",
-			"url": "http://www.northern.edu/"
+			"name": "University of Connecticut",
+			"location": "Hartford, CT",
+			"degree": "Graduate",
+			"majors": ["M.S. in Business Analytics and Project Management"],
+			"dates": "May 2018",
+			"url": "https://uconn.edu/"
 		},
 		{
-			"name": "Capital Normal University",
-			"location": "Beijing, China",
+			"name": "Dalian Neusoft University of Information",
+			"location": "Dalian, Liaoning",
 			"degree": "Bachelars",
-			"majors": ["B.S. in Urban and Rural Planning and Resource Management"],
-			"dates": "July 2007",
-			"url": "http://cnu.edu"
+			"majors": ["B.S. in Financial Management"],
+			"dates": "June 2015",
+			"url": "https://www.neusoft.edu.cn/"
 		}
 	],
 	"onlineCourses": [
