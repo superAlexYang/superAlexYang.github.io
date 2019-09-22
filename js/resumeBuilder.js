@@ -49,7 +49,6 @@ var projects = {
 			"description": "Project for Data Camps",
 			"image": "https://github.com/superAlexYang",
 			"github": "https://github.com/superAlexYang",
-			"demo": "https://github.com/superAlexYang",
 			"progress": 100
 		},
 		{
@@ -58,7 +57,6 @@ var projects = {
 			"description": "Capstone Project For Udacity Machine Learning Nanodegree",
 			"image": "https://github.com/superAlexYang",
 			"github": "https://github.com/superAlexYang",
-			"demo": "https://github.com/superAlexYang",
 			"progress": 100
 		},
 		{
@@ -67,7 +65,6 @@ var projects = {
 			"description": "Final Project for Advanced Data Analysis Course",
 			"image": "https://github.com/superAlexYang",
 			"github": "https://github.com/superAlexYang",
-			"demo": "https://github.com/superAlexYang",
 			"progress": 100
 		}
 	]
@@ -86,9 +83,7 @@ projects.display = function(){
 										.append(HTMLprojectTitle.replace("%data%", projects.projects[project]["title"]))
 										.append(HTMLprojectDates.replace("%data%", projects.projects[project]["date worked"]))
 										.append(HTMLprojectDescription.replace("%data%", projects.projects[project]["description"]));
-			// display demo or github json info if they exisit
-			if (projects.projects[project]["demo"] != undefined )
-				$(".project-entry:last").append(HTMLprojectDemo.replace("#", projects.projects[project]["demo"]));
+			// display github json info if they exisit
 			if (projects.projects[project]["github"] != undefined )
 				$(".project-entry:last").append(HTMLprojectGithub.replace("#", projects.projects[project]["github"]));
 			
