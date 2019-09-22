@@ -259,7 +259,7 @@ education.display = function(){
 		$(".education-entry:last").append(HTMLonlineDates.replace("%data%", education.onlineCourses[onlineCourse]["dates"]))
 									.append(HTMLonlineSchool.replace("%data%", education.onlineCourses[onlineCourse]["school"]))
 									.append(HTMLonlineTitle.replace("%data%", education.onlineCourses[onlineCourse]["title"]))
-									.append(HTMLonlineURL.replace("%data%", education.onlineCourses[onlineCourse]["url"]));
+									.append(HTMLonlineURL.replace("#", education.onlineCourses[onlineCourse]["url"]));
 	}
 }
 // Display a list of skill labels
