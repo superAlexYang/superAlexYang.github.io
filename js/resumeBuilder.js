@@ -62,7 +62,7 @@ var projects = {
 		{
 			"title": "Customer Segments",
 			"date worked": "Nov, 2017",
-			"description": "Analyze various customers' spending amounts of diverse product categories, using unsupervised learning algorithms to describe the variation in the different types of customers that a wholesale distributor interacts with. Project of Udacity Machine Learning Engineer Nanodegree",
+			"description": "Using unsupervised learning algorithms to describe the variation in the different types of customers.",
 			"image": "https://github.com/superAlexYang",
 			"github": "https://github.com/superAlexYang/customer_segments",
 			"progress": 100
@@ -70,7 +70,7 @@ var projects = {
 		{
 			"title": "Finding Donors",
 			"date worked": "Nov, 2017",
-			"description": "Using supervised alogrithms to accurately model individuals' income using 1994 U.S. Census data. Project of Udacity Machine Learning Engineer Nanodegree",
+			"description": "Using supervised alogrithms to accurately model individuals' income.",
 			"image": "https://github.com/superAlexYang",
 			"github": "https://github.com/superAlexYang/Finding_Donors",
 			"progress": 100
