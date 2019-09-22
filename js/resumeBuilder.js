@@ -44,19 +44,59 @@ work.display = function(){
 var projects = {
 	"projects": [
 		{
+			"title": "RRL Stock Trader",
+			"date worked": "Jan, 2018",
+			"description": "Using Reinforcement Learning to train a stock trader. Project of Udacity Machine Learning Engineer Nanodegree",
+			"image": "https://github.com/superAlexYang",
+			"github": "https://github.com/superAlexYang/RRL_stock_trader",
+			"progress": 100
+		},
+		{
+			"title": "Dog Breed Identification",
+			"date worked": "Dec, 2017",
+			"description": "Using CNN to identify dog breed. Project of Udacity Machine Learning Engineer Nanodegree",
+			"image": "https://github.com/superAlexYang",
+			"github": "https://github.com/superAlexYang/Dog_Identification",
+			"progress": 100
+		},
+		{
+			"title": "Customer Segments",
+			"date worked": "Nov, 2017",
+			"description": "Analyze various customers' spending amounts of diverse product categories, using unsupervised learning algorithms to describe the variation in the different types of customers that a wholesale distributor interacts with. Project of Udacity Machine Learning Engineer Nanodegree",
+			"image": "https://github.com/superAlexYang",
+			"github": "https://github.com/superAlexYang/customer_segments",
+			"progress": 100
+		},
+		{
+			"title": "Finding Donors",
+			"date worked": "Nov, 2017",
+			"description": "Using supervised alogrithms to accurately model individuals' income using 1994 U.S. Census data. Project of Udacity Machine Learning Engineer Nanodegree",
+			"image": "https://github.com/superAlexYang",
+			"github": "https://github.com/superAlexYang/Finding_Donors",
+			"progress": 100
+		},
+		{
+			"title": "Boston Hoursing",
+			"date worked": "Oct, 2017",
+			"description": "Predicting Boston Housing Prices using decision tree. Project of Udacity Machine Learning Engineer Nanodegree",
+			"image": "https://github.com/superAlexYang",
+			"github": "https://github.com/superAlexYang/Boston_Housing",
+			"progress": 100
+		},
+		{
+			"title": "Deeplearning Specialization Assignments",
+			"date worked": "Sep, 2017",
+			"description": "Assignments Notebooks for Coursera Deeplearning Specialization Courses",
+			"image": "https://github.com/superAlexYang",
+			"github": "https://github.com/superAlexYang/Deeplearning_Assignment",
+			"progress": 100
+		},
+		{
 			"title": "Yelp Business Analysis",
 			"date worked": "Jan 2018 - May 2018",
 			"description": "Project for Data Camps",
 			"image": "https://github.com/superAlexYang",
 			"github": "https://github.com/superAlexYang",
-			"progress": 100
-		},
-		{
-			"title": "Deeplearning Specialization Assignments",
-			"date worked": "Nov, 2017",
-			"description": "Assignments Notebooks for Coursera Deeplearning Specialization Courses",
-			"image": "https://github.com/superAlexYang",
-			"github": "https://github.com/superAlexYang/Deeplearning_Assignment",
 			"progress": 100
 		},
 		{
