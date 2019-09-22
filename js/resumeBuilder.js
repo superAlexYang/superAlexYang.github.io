@@ -52,11 +52,11 @@ var projects = {
 			"progress": 100
 		},
 		{
-			"title": "Stock Predictions Trading Bot",
-			"date worked": "Feb, 2018",
-			"description": "Capstone Project For Udacity Machine Learning Nanodegree",
+			"title": "Deeplearning Specialization Assignments",
+			"date worked": "Nov, 2017",
+			"description": "Assignments Notebooks for Coursera Deeplearning Specialization Courses",
 			"image": "https://github.com/superAlexYang",
-			"github": "https://github.com/superAlexYang",
+			"github": "https://github.com/superAlexYang/Deeplearning_Assignment",
 			"progress": 100
 		},
 		{
