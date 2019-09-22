@@ -14,7 +14,7 @@ var work = {
 			"title": "Graduate Research Assistant",
 			"location": "Hartford, CT",
 			"dates": "JAN 2018 - MAY 2018",
-			"description": "Developed a database website to store millions of images and texts data using Python, Flask and SQLite; Reduced marking time by implementing a Web App for marking images and deployed on AWS"
+			"description": "Developed a database website to store millions of images and texts data using Python, Flask and SQLite; Reduced marking time by implementing a GUI Web App and deployed on AWS"
 		},
 		{
 			"employer": "Hebei Weitian Co. Ltd.",
