@@ -96,7 +96,7 @@ var projects = {
 			"date worked": "Jan 2018 - May 2018",
 			"description": "Project for Data Camps",
 			"image": "https://github.com/superAlexYang",
-			"github": "https://github.com/superAlexYang",
+			"github": "https://github.com/superAlexYang/Yelp_Business_Analysis",
 			"progress": 100
 		},
 		{
